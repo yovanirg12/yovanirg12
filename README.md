@@ -1,10 +1,10 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 50px 20px; border-radius: 15px; color: white; margin-bottom: 30px;">
+<div align="center">
 
-# 🚀 Yovani Reyes
-## 💻 Estudiante de Ingeniería de Sistemas
-### 🎓 7mo ciclo - Universidad Nacional de Ingeniería
+<img src="https://raw.githubusercontent.com/yovanirg12/yovanirg12/main/banner.png" width="100%">
 
 </div>
+
+## Hola, Soy Yovani Reyes
 
 Soy un estudiante de 7mo ciclo de la carrera de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería. Me destaco por ser una persona proactiva y trabajando en equipo, brindando soluciones rápidas y efectivas. Soy muy observador, lo que me ayuda a detectar detalles y oportunidades únicas así como identificar mejoras.
 
