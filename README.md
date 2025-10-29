@@ -1,4 +1,12 @@
-## Hola, Soy Yovani Reyes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div align="center">
+  
+# **Yovani Reyes** 🚀
+
+### **Estudiante de Ingeniería de Sistemas** 💻
+**7mo ciclo - Universidad Nacional de Ingeniería**
+
+</div>
+
 Soy un estudiante de 7mo ciclo de la carrera de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería. Me destaco por ser una persona proactiva y trabajando en equipo, brindando soluciones rápidas y efectivas. Soy muy observador, lo que me ayuda a detectar detalles y oportunidades únicas así como identificar mejoras.
 
 - **Tecnologías**: `.Python`, `.SQL`, `.PowerBi`, `.Excel`
