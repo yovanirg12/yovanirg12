@@ -13,5 +13,10 @@ Soy un estudiante de 7mo ciclo de la carrera de Ingeniería de Sistemas en la Un
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yovanirg12&theme=dracula)](https://git.io/streak-stats)
 
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yovanirg12&stats_format=bytes)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
