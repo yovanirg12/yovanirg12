@@ -1,9 +1,8 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 40px; border-radius: 15px; color: white;">
+<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 50px 20px; border-radius: 15px; color: white; margin-bottom: 30px;">
 
-# **Yovani Reyes** 💻
-
-### **Estudiante de Ingeniería de Sistemas** 🎓
-**7mo ciclo - Universidad Nacional de Ingeniería** 🏛️
+# 🚀 Yovani Reyes
+## 💻 Estudiante de Ingeniería de Sistemas
+### 🎓 7mo ciclo - Universidad Nacional de Ingeniería
 
 </div>
 
